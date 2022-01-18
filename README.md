@@ -13,7 +13,7 @@ I suppose it could also be used if you want to keep an historic record of your s
 
 # How to build:
 This project does not use any 3rd party tools.
-Load the project in Visual Studio 2017 and compile no need to download anything.
+Load the project in Visual Studio 2017 and compile no need to download any 3rd party libraries.
 
 # How to use:
 1) Select your No Man Sky savegame folder (the one starting with ST_ located in your user data directory) 
